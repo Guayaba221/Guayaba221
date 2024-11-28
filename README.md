@@ -14,8 +14,3 @@ I’m a passionate **Web3 Developer**, always on the lookout for **typos** and *
 
 ## My Repositories 🔗
 [View my repositories](https://github.com/Guayaba221)
-
-## GitHub Stats 💼
-![Contributions](https://img.shields.io/github/contributors-anon/Guayaba221/GuayabaRepo?color=blue&style=flat-square)
-![Stars](https://img.shields.io/github/stars/Guayaba221/GuayabaRepo?color=blue&style=flat-square)
-![Forks](https://img.shields.io/github/forks/Guayaba221/GuayabaRepo?color=blue&style=flat-square)
