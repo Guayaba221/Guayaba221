@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Guayaba221! 👨‍💻✨
 
-<!--
-**Guayaba221/Guayaba221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a passionate **Web3 Developer**, always on the lookout for **typos** and **improving code**. I believe in clean, readable, and efficient code across various programming languages. 🌐🚀
 
-Here are some ideas to get you started:
+## What I Do 🔧:
+- Building **Web3** solutions that are secure and scalable
+- Finding and fixing **typos** in code and documentation 🧐✍️
+- Writing code in multiple languages, from **Solidity** to **JavaScript** and beyond
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies I Love 💻❤️:
+- **Blockchain Development** (Ethereum, Solana, etc.)
+- **Smart Contracts**
+- **Full Stack Development** (React, Node.js, etc.)
+
+## My Repositories 🔗
+[View my repositories](https://github.com/Guayaba221)
+
+## GitHub Stats 💼
+![Contributions](https://img.shields.io/github/contributors-anon/Guayaba221/GuayabaRepo?color=blue&style=flat-square)
+![Stars](https://img.shields.io/github/stars/Guayaba221/GuayabaRepo?color=blue&style=flat-square)
+![Forks](https://img.shields.io/github/forks/Guayaba221/GuayabaRepo?color=blue&style=flat-square)
